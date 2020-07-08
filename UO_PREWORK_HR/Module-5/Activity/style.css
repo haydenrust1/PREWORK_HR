@@ -1,0 +1,53 @@
+h1 {
+  text-align: center;
+}
+
+.redText {
+  color: red;
+}
+
+.blueText {
+  color: blue;
+}
+
+.greenText {
+  color: green;
+}
+
+.bigText {
+  font-size: 2vw;
+}
+
+.smallText {
+  font-size: 0.8vw;
+}
+
+.centered {
+  text-align: center;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.fontFam {
+  font-family: cursive;
+}
+
+.combo {
+  font-size: 40px;
+  color: orange;
+  font-weight: bold;
+}
+
+.styledFont {
+  font-family: 'Courier New', Courier, monospace;
+  color: forestgreen;
+  size: 20px;
+}
+
+#styledImage {
+  border-style: solid;
+  border-color: goldenrod;
+  border-width: 6px;
+}
